@@ -23,11 +23,3 @@ for linea in archivo:
 archivo.close()
     
 print("El resultado de la suma es: "+str(sumaCalibraciones))
-    
-    
-        
-            
-            
-            
-
-
